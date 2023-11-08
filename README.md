@@ -1,9 +1,9 @@
 
 <h1 align="center">🚀 Data Science 🛠️</h1>
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
     [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&layout=compact&langs_count=8&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</p>
 
 
 <h3>Sobre mim</h3>
@@ -15,7 +15,7 @@
 
 <h3>Minhas Skills</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Isa-Python">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="Isa-CSS">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="30" height="30" alt="Isa-git">
@@ -40,9 +40,13 @@
 ![Wikimedia Commons Badge](https://img.shields.io/badge/Wikimedia%20Commons-069?logo=wikimediacommons&logoColor=fff&style=flat)
 <br/>
 
+<p align="center">
+  <img src="https://github.com/rodhfr/rodhfr/blob/main/snake.svg" alt="Snake animation">
+</p>
+
 <h3>Onde me encontrar</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://letterboxd.com/RodolfoFranca/" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white" target="_blank" alt="Letterboxd">
   </a>
@@ -53,9 +57,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
 </p>
-
-
-<p align="center">
-  <img src="https://github.com/rodhfr/rodhfr/blob/main/snake.svg" alt="Snake animation">
-</p>
-
