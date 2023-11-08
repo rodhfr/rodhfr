@@ -1,9 +1,6 @@
 
 <h1 align="center">🚀 Data Science 🛠️</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -60,3 +57,5 @@
 <p align="center">
   <img src="https://github.com/rodhfr/rodhfr/blob/main/snake.svg" alt="Snake animation">
 </p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&layout=compact&langs_count=8&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
