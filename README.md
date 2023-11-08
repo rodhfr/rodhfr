@@ -1,7 +1,4 @@
-|   |   |
-|---|---|
-| <img src="https://github.com/rodhfr/rodhfr/blob/main/perfil.jpg" width="200" height="200" style="border-radius:50%" alt="Profile Picture"> | 🚀 Data Scientist 🛠️ |
-
+<img src="https://github.com/rodhfr/rodhfr/blob/main/perfil.jpg" width="200" height="200" style="border-radius:50%" alt="Profile Picture"> 🚀 Data Scientist 🛠️
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Isa-Python">
