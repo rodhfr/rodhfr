@@ -1,14 +1,17 @@
 
 <h1 align="center">🚀 Data Science 🛠️</h1>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&layout=compact&langs_count=8&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: center;">
+    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&layout=compact&langs_count=8&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Ciência de Dados e Inteligência1 Artificial** no <a href="https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR">Universidade Federal da Paraíba</a>.
+- 🎓 Estudando **Ciência de Dados e Inteligência Artificial** na <a href="https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR">Universidade Federal da Paraíba</a>.
 - 💼 Procurando emprego na área de **Dev Ops** ou **Análise de Dados** 
-- 🌱 &nbsp; Aprendendo mais sobre ** Docker, Web Applications and Python **.
+- 🌱 Aprendendo mais sobre **Docker, Web Applications and Python**.
 
 <h3>Minhas Skills</h3>
 
@@ -21,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30" alt="Isa-terminal">
 </p>
 
-**DevOps**
+<h2>Minhas Skills**DevOps**</h2>
 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
