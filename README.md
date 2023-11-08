@@ -43,7 +43,7 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 
 
-**Ferramentas de desenvolvimento**
+<h6>Ferramentas de desenvolvimento</h6>
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
@@ -57,16 +57,18 @@
   <img src="https://github.com/rodhfr/rodhfr/blob/main/snake.svg" alt="Snake animation">
 </p>
 
+<br>
+
 <h3>Onde me encontrar</h3>
 
 <p align="left">
-  <a href="https://letterboxd.com/RodolfoFranca/" target="_blank">
-    <img src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white" target="_blank" alt="Letterboxd">
-  </a>
   <a href="mailto:souzafrodolfo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/rodolfo-fran%C3%A7a-de-souza-28b55a286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank" alt="LinkedIn">
+  </a>
+  <a href="https://letterboxd.com/RodolfoFranca/" target="_blank">
+    <img src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white" target="_blank" alt="Letterboxd">
   </a>
 </p>
