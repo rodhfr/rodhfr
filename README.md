@@ -1,6 +1,6 @@
-<h2 align="right">
+<h1 align="right">
   <img src="https://github.com/rodhfr/rodhfr/blob/main/perfil.jpg" width="200" height="200" style="border-radius:50%" alt="Profile Picture">
-</h2>
+</h1>
 
 <h1 align="left">🚀 Data Scientist 🛠️</h1>
 
