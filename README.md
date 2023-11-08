@@ -35,9 +35,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&layout=compact&langs_count=8&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Onde me encontrar</h3>
 
@@ -58,4 +56,3 @@
   <img src="https://github.com/rodhfr/rodhfr/blob/main/snake.svg" alt="Snake animation">
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&layout=compact&langs_count=8&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
