@@ -48,6 +48,7 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
+![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat)
 ![BookStack Badge](https://img.shields.io/badge/BookStack-0288D1?logo=bookstack&logoColor=fff&style=flat)
 ![Wikimedia Commons Badge](https://img.shields.io/badge/Wikimedia%20Commons-069?logo=wikimediacommons&logoColor=fff&style=flat)
 
