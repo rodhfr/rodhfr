@@ -28,7 +28,15 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30" alt="Isa-terminal">
 </p>
 
-**DevOps**
+<h6>Soft Skills</h6>
+
+![Public Speaking](https://img.shields.io/badge/Public%20Speaking-green)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-red)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)
+![Lesson Planning](https://img.shields.io/badge/Lesson%20Planning-yellow)
+![Adaptability](https://img.shields.io/badge/Adaptability-purple)
+
+<h6>DevOps</h6>
 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
@@ -43,13 +51,7 @@
 ![BookStack Badge](https://img.shields.io/badge/BookStack-0288D1?logo=bookstack&logoColor=fff&style=flat)
 ![Wikimedia Commons Badge](https://img.shields.io/badge/Wikimedia%20Commons-069?logo=wikimediacommons&logoColor=fff&style=flat)
 
-**Soft Skills**
-
-![Public Speaking](https://img.shields.io/badge/Public%20Speaking-green)
-![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-red)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)
-![Lesson Planning](https://img.shields.io/badge/Lesson%20Planning-yellow)
-![Adaptability](https://img.shields.io/badge/Adaptability-purple)
+<br>
 
 <p align="center">
   <img src="https://github.com/rodhfr/rodhfr/blob/main/snake.svg" alt="Snake animation">
