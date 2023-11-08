@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rodhfr/rodhfr/blob/main/perfil.png" width="200" height="200" style="border-radius:50%" alt="Profile Picture">
+  <img src="https://github.com/rodhfr/rodhfr/blob/main/perfil.jpg" width="200" height="200" style="border-radius:50%" alt="Profile Picture">
 </p>
 
 <h1 align="center">🚀 Data Scientist 🛠️</h1>
