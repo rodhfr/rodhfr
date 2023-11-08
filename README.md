@@ -18,7 +18,7 @@
  
   ##  
 <div> 
-  <a href="https://www.youtube.com/watch?v=RPVeQ0LUZy8" target="_blank"><img src="https://img.shields.io/badge/YouTube-0000CD?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://letterboxd.com/RodolfoFranca/" target="_blank"><img src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white" target="_blank"></a>
   <a href = "mailto:souzafrodolfo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0000CD?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodolfo-fran%C3%A7a-de-souza-28b55a286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
