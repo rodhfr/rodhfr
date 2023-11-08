@@ -1,6 +1,6 @@
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&layout=compact&langs_count=8&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
