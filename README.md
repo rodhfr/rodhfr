@@ -1,8 +1,8 @@
-<h1>🚀 Data Scientist 🛠️</h1>
-
 <p align="center">
   <img src="https://github.com/rodhfr/rodhfr/blob/main/perfil.png" width="200" height="200" style="border-radius:50%" alt="Profile Picture">
 </p>
+
+<h1 align="center">🚀 Data Scientist 🛠️</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Isa-Python">
