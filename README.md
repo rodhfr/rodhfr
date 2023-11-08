@@ -28,11 +28,12 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30" alt="Isa-terminal">
 </p>
 
+**Soft Skills**
 ![Public Speaking](https://img.shields.io/badge/Public%20Speaking-green)
 ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-red)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)
 ![Lesson Planning](https://img.shields.io/badge/Lesson%20Planning-yellow)
-![ABNT](https://img.shields.io/badge/ABNT-blue)
+![Adaptability](https://img.shields.io/badge/Adaptability-purple)
 
 
 
