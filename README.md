@@ -1,6 +1,6 @@
 
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&layout=compact&langs_count=8&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
@@ -27,6 +27,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30" alt="Isa-vscode">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30" alt="Isa-terminal">
 </p>
+![Public Speaking](https://img.shields.io/badge/Public%20Speaking-green)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-red)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)
+![Lesson Planning](https://img.shields.io/badge/Lesson%20Planning-yellow)
+![ABNT](https://img.shields.io/badge/ABNT-blue)
+
+
 
 <h6>DevOps</h6>
 
@@ -50,7 +57,7 @@
 
 <h3>Onde me encontrar</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://letterboxd.com/RodolfoFranca/" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white" target="_blank" alt="Letterboxd">
   </a>
