@@ -27,6 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30" alt="Isa-vscode">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30" alt="Isa-terminal">
 </p>
+
 ![Public Speaking](https://img.shields.io/badge/Public%20Speaking-green)
 ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-red)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)
