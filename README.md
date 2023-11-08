@@ -21,18 +21,17 @@
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
-![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat-square)
-![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)
-![BookStack Badge](https://img.shields.io/badge/BookStack-0288D1?logo=bookstack&logoColor=fff&style=flat-square)
-![Wikimedia Commons Badge](https://img.shields.io/badge/Wikimedia%20Commons-069?logo=wikimediacommons&logoColor=fff&style=flat-square)
-
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+![BookStack Badge](https://img.shields.io/badge/BookStack-0288D1?logo=bookstack&logoColor=fff&style=for-the-badge)
+![Wikimedia Commons Badge](https://img.shields.io/badge/Wikimedia%20Commons-069?logo=wikimediacommons&logoColor=fff&style=for-the-badge)
 <br/>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&layout=compact&langs_count=8&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
