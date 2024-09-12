@@ -6,8 +6,9 @@
   </a>
 </p>
 
-<h1 align="left">🚀 Data Science 🛠️</h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr)](https://github.com/anuraghazra/github-readme-stats)
 
+<h1 align="left">🚀 Data Science 🛠️</h1>
 
 
 <h3>Sobre mim</h3>
