@@ -1,10 +1,8 @@
 
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&layout=compact&langs_count=8&theme=dark&size_weight=0.5&count_weight=0.5&count_private=False" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ngrs&show_icons=False&count_private=False&layout=compact&hide_border=true&title_color=C0C0C0&text_color=c9d1d9&bg_color=0d1117"/>
+</div>
 
 <h1 align="left">🚀 Data Science 🛠️</h1>
 
