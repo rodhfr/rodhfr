@@ -63,7 +63,7 @@
   <a href="mailto:souzafrodolfo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank" alt="Gmail">
   </a>
-  <a href="[https://www.linkedin.com/in/rodolfofrancasouza/]" target="_blank">
+  <a href="https://www.linkedin.com/in/rodolfofrancasouza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
   <a href="https://letterboxd.com/RodolfoFranca/" target="_blank">
