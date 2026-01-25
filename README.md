@@ -4,15 +4,12 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&show_icons=False&count_private=False&layout=compact&hide_border=true&title_color=C0C0C0&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
-<h1 align="left">🚀 Data Science 🛠️</h1>
-
 
 <h3>Sobre mim</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Ciência de Dados e Inteligência Artificial** na <a href="https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR">Universidade Federal da Paraíba</a>.
-- 💼 Procurando emprego na área de **Dev Ops** ou **Análise de Dados** 
-- 🌱 Aprendendo mais sobre **Docker, Web Applications and Python**.
+- Escola da Nuvem
+- Linux Specialist | Cloud Practitioner | Backend Developer | Bash | Python | TypeScript
 
 <h3>Minhas Skills</h3>
 
