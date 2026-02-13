@@ -1,10 +1,3 @@
-
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodhfr&show_icons=False&count_private=False&layout=compact&hide_border=true&title_color=C0C0C0&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
-
-
 <h3>Sobre mim</h3>
 
 - 🎓 Estudando **Ciência de Dados e Inteligência Artificial** na <a href="https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR">Universidade Federal da Paraíba</a>.
